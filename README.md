@@ -6,7 +6,7 @@
 ## About me : 
 - :school: I am a `Embedded Software Engineer Graduate` from Faculty of Electrical Electronics at Sakarya University
 - 🌱 I’m currently learning `Embedded System` and `C++`
-- 📫 How to reach me **adem.marangozgmail.com**
+- 📫 How to reach me **adem.marangoz@gmail.com**
 
 <br>
 
