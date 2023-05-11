@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> , I'm Adem Alnajjar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> , I'm Adem Marangoz</h1>
 <h3 align="center">An ambitious Engineer Who is looking for an embedded software developer challenging position in a leading company where I can put my knowledge and skills into practice, achieve more progress and success and make significant contributions</h3><br /><br />
 
 
